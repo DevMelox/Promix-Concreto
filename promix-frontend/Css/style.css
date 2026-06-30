@@ -1,0 +1,30 @@
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.menu li {
+}
+
+.menu a {
+    font-size: 1.4rem;
+    padding: .75rem 1rem;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+    color: #c39815;
+}
+
+.logo {
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #c39815;
+}
