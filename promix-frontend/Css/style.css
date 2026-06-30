@@ -65,3 +65,15 @@
     margin: 0 auto;
     padding-inline: 1rem;
 }
+
+.hero-buttons {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.hero {
+    background-image: url("https://promixconcreto.com.br/wp-content/uploads/2026/06/hero.png");
+    background-repeat: no-repeat;
+    background-position: center right;
+}
